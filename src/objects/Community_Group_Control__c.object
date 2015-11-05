@@ -67,26 +67,7 @@
     <enableStreamingApi>true</enableStreamingApi>
     <fieldSets>
         <fullName>CreateGroup</fullName>
-        <availableFields>
-            <field>Network__c</field>
-            <isFieldManaged>false</isFieldManaged>
-            <isRequired>false</isRequired>
-        </availableFields>
-        <availableFields>
-            <field>T_C_Accepted_Date__c</field>
-            <isFieldManaged>false</isFieldManaged>
-            <isRequired>false</isRequired>
-        </availableFields>
-        <availableFields>
-            <field>T_C_Accepted__c</field>
-            <isFieldManaged>false</isFieldManaged>
-            <isRequired>false</isRequired>
-        </availableFields>
-        <availableFields>
-            <field>Terms__c</field>
-            <isFieldManaged>false</isFieldManaged>
-            <isRequired>false</isRequired>
-        </availableFields>
+       
         <description>In the New Group process on the Community.</description>
         <displayedFields>
             <field>Name</field>
